@@ -5,6 +5,7 @@
 ## 1. Introduction to OLS (Simple Regression Model)
 
 **Model Specification:**
+
 $$
 y = \beta_0 + \beta_1 x + u
 $$
